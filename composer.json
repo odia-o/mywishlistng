@@ -23,8 +23,11 @@
             "database/factories"
         ],
         "psr-4": {
-            "App\\": "app/"
-        }
+            "mywishlistng\\": "app/"
+        },
+        "files": [
+            "app/Http/helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {

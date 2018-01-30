@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace mywishlistng\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use mywishlistng\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 class LoginController extends Controller
